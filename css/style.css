@@ -43,13 +43,13 @@ body {
 }
 
 a {
-  color: #f38181;
+  color: #c19657;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #f38181;
+  color: #c19657;
   outline: none;
   text-decoration: none;
 }
@@ -67,17 +67,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #f38181;
+  background: #c19657;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #f38181;
+  background: #c19657;
 }
 
 ::selection {
-  color: #fff;
-  background: #f38181;
+  color: #c19657;
+  background: #000;
 }
 
 .gtco-nav {
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   width: 100%;
-  padding: 20px 0;
+  padding: 0px 0;
   z-index: 1001;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -139,14 +139,14 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 12px;
   padding: 20px 10px 0 10px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(193, 150, 87, 0.5);
   font-weight: 400 !important;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 .gtco-nav ul li a:hover, .gtco-nav ul li a:focus, .gtco-nav ul li a:active {
-  color: #fff;
+  color: #c19657;
 }
 .gtco-nav ul li.has-dropdown {
   position: relative;
@@ -211,11 +211,11 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .gtco-nav ul li.btn-cta a {
-  color: #fff;
+  color: #c19657;
 }
 .gtco-nav ul li.btn-cta a span {
   border: none !important;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(193, 150, 87, 0.2);
   padding: 4px 20px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -230,11 +230,11 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 30px;
 }
 .gtco-nav ul li.btn-cta a:hover span {
-  background: #f38181;
-  color: #fff;
+  background: #c19657;
+  color: #000;
 }
 .gtco-nav ul li.active > a {
-  color: #fff !important;
+  color: #c19657 !important;
 }
 .gtco-nav.scrolled {
   background: #fff;
@@ -253,22 +253,22 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline;
 }
 .gtco-nav.scrolled ul li a {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(193, 150, 87, 0.5);
 }
 .gtco-nav.scrolled ul li a:hover {
   color: black;
 }
 .gtco-nav.scrolled ul li.active > a {
-  color: #f38181 !important;
+  color: #c19657 !important;
 }
 .gtco-nav.scrolled ul li.btn-cta a {
   color: #fff;
 }
 .gtco-nav.scrolled ul li.btn-cta a span {
   border: none !important;
-  background: #f38181;
+  background: #c19657;
   padding: 4px 20px;
-  color: #fff;
+  color: #000;
 }
 .gtco-nav.scrolled #gtco-logo em, .gtco-nav.scrolled #gtco-logo a {
   color: #000;
@@ -407,7 +407,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
 }
 .gtco-cover a {
-  color: #f38181;
+  color: #c19657;
 }
 .gtco-cover a:hover {
   color: white;
@@ -501,7 +501,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #gtco-about .img-shadow {
   position: relative;
-  background: #f38181;
+  background: #c19657;
   width: 100%;
   float: left;
 }
@@ -588,7 +588,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-our-team .gtco-team-reverse .img-shadow,
 #gtco-our-team .gtco-team .img-shadow {
   position: relative;
-  background: #f38181;
+  background: #c19657;
   width: 100%;
   float: left;
   margin-bottom: 30px;
@@ -664,11 +664,11 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   width: 72px;
   height: 2px;
-  background: #f38181;
+  background: #c19657;
 }
 
 .heading-colored {
-  color: #f38181;
+  color: #c19657;
 }
 
 .read-more i {
@@ -700,7 +700,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #f38181;
+  color: #c19657;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -726,7 +726,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .gtco-contact-info ul li:before {
-  color: #f38181;
+  color: #c19657;
   position: absolute;
   left: 0;
   top: .05em;
@@ -864,7 +864,7 @@ form label {
   position: fixed;
   z-index: 1901;
   width: 270px;
-  background: black;
+  background: #c19657;
   top: 0;
   right: 0;
   top: 0;
@@ -996,7 +996,7 @@ form label {
   text-decoration: none;
 }
 .gtco-nav-toggle.active i::before, .gtco-nav-toggle.active i::after {
-  background: #444;
+  background: rgba(255, 255, 255, 0.5);
 }
 .gtco-nav-toggle:hover, .gtco-nav-toggle:focus, .gtco-nav-toggle:active {
   outline: none;
@@ -1007,18 +1007,18 @@ form label {
   display: inline-block;
   width: 25px;
   height: 2px;
-  color: #252525;
+  color: #c19657;
   font: bold 14px/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
-  background: #252525;
+  background: #c19657;
   transition: all .2s ease-out;
 }
 .gtco-nav-toggle i::before, .gtco-nav-toggle i::after {
   content: '';
   width: 25px;
   height: 2px;
-  background: #252525;
+  background: #c19657;
   position: absolute;
   left: 0;
   transition: all .2s ease-out;
@@ -1116,21 +1116,21 @@ form label {
 }
 
 .btn-primary {
-  background: #f38181;
-  color: #fff;
-  border: 2px solid #f38181 !important;
+  background: #c19657;
+  color: #000;
+  border: 2px solid #c19657 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #8bde2f !important;
-  border-color: #8bde2f !important;
+  background: #000 !important;
+  border-color: #000 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #f38181;
-  border: 2px solid #f38181;
+  color: #c19657;
+  border: 2px solid #c19657;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #f38181;
+  background: #c19657;
   color: #fff;
 }
 

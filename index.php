@@ -8,9 +8,9 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Estudio Jurídico B&M</title>
+	<title>Estudio Jurídico GM</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Estudio Jurídico B&M" />
+	<meta name="description" content="Estudio Jurídico GM" />
 	<meta name="keywords" content="estudio juridico, abogado" />
 
 
@@ -62,9 +62,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-2 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">B&M</a></div>
+					<div id="gtco-logo"><a href="index.html"></a><img src="images/GM1.png" /></div>
 				</div>
-				<div class="col-xs-10 text-right menu-1 main-nav">
+				<div class="col-xs-10 text-right menu-1 main-nav" style="padding-top:35px">
 					<ul>
 						<li class="active"><a href="#" data-nav-section="home">Inicio</a></li>
 						<li><a href="#" data-nav-section="about">Quienes somos</a></li>
@@ -75,7 +75,7 @@
 						<!-- <li><a href="http://freehtml5.co/" class="external">External</a></li> -->
 					</ul>
 				</div>
-				<div class="col-md-12">
+				<div class="col-md-10">
 					<!--p class="pull-left">
 						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
 						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
@@ -93,7 +93,7 @@
 		</div>
 	</nav>
 
-	<section id="gtco-hero" class="gtco-cover" style="background-image: url(images/img_bg_4.jpg);"  data-section="home"  data-stellar-background-ratio="0.5">
+	<section id="gtco-hero" class="gtco-cover" style="background-image: url(images/portada.jpg);"  data-section="home"  data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -114,21 +114,23 @@
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Bienvenido a nuestro Estudio</h1>
-					<p class="sub">En B&M Abogados buscamos brindar un servicio de excelencia profesional acorde a las expectativas de nuestros clientes, ofreciendo un asesoramiento personalizado en todas las áreas del derecho que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menos costo posible,</p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Bienvenido</p>
+					<p class="sub">En nuestro estudio buscamos brindar un servicio de excelencia profesional acorde a las expectativas de nuestros clientes, ofreciendo un asesoramiento personalizado en todas las áreas del derecho que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menos costo posible.</p>
+					<!--p class="subtle-text animate-box" data-animate-effect="fadeIn">Bienvenido</p-->
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-md-pull-1 animate-box" data-animate-effect="fadeInLeft">
 					<div class="img-shadow">
-						<img src="images/img_1.jpg" class="img-responsive" alt="B&M Abogados">
+						<img src="images/img_1.jpg" class="img-responsive" alt="GM Abogados">
 					</div>
 				</div>
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-					<h2 class="heading-colored">Excelencia y honestidad</h2>
-					<p>Nuestro compromiso consiste desarrollar relaciones a largo plazo, buscando soluciones legales costo-eficientes para nuestros clientes destinados a alcanzar un alto nivel de eficacia en la prestación de servicios jurídicos y ofreciendo una periódica y completa información  del estado de sus asuntos. Para ello consideramos esencial el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la mejora continua de los procesos.
+					<h2 class="heading-colored">MISION Y VISION</h2>
+					<p>Nuestro compromiso consiste desarrollar relaciones a largo plazo, buscando soluciones legales costo-eficientes para nuestros clientes destinados a alcanzar un alto nivel de eficacia en la prestación de servicios jurídicos y ofreciendo una periódica y completa información  del estado de sus asuntos. Para ello consideramos esencial el desarrollo humano y profesional permanente de nuestro equipo, la actualización constante de los recursos tecnológicos y la mejora continua de los procesos.</p>
 
-Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y creatividad, dentro del marco de las normas vigentes y de los estrictos parámetros de ética que rigen nuestra conducta.
+					<p>Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y creatividad, dentro del marco de las normas vigentes y de los estrictos parámetros de ética que rigen nuestra conducta.</p>
+
+					<p>En Estudio Jurídico GM nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos” </p>
 
 					<!--p><a href="#" class="read-more">Read more <i class="icon-chevron-right"></i></a></p-->
 				</div>
@@ -136,21 +138,21 @@ Creemos firmemente en ejercer nuestra profesión con profesionalismo, seriedad y
 		</div>
 	</section>
 
-	<section id="gtco-practice-areas" data-section="practice-areas">
+	<section id="gtco-practice-areas" data-section="practice-areas"  style="background: rgba(193, 150, 87, 0.1);" >
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Áreas de prácticas</h1>
-					<p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.
+					<!--p class="sub">Contamos con un equipo de trabajo multidisciplinario de primer nivel y gran experiencia profesional, dirigido por especialistas del rubro.
 					<br>Nuestro lema es que “trabajando con seriedad, compromiso y excelencia profesional los resultados siempre serán positivos”</p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p>
+					<!--p class="subtle-text animate-box" data-animate-effect="fadeIn">Áreas de prácticas</span></p-->
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-6">
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Derecho Civil</h3>
@@ -163,7 +165,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Derecho Laboral</h3>
@@ -173,7 +175,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Derecho de Familia</h3>
@@ -186,7 +188,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 					
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Defensa del consumidor</h3>
@@ -196,7 +198,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Contratos</h3>
@@ -206,7 +208,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Derecho Sucesorio</h3>
@@ -216,7 +218,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Derecho de Tránsito</h3>
@@ -226,7 +228,7 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 
 					<div class="gtco-practice-area-item animate-box">
 						<div class="gtco-icon">
-							<img src="images/scale.png" alt="B&M Abogados">
+							<img src="images/scale.png" alt="GM Abogados">
 						</div>
 						<div class="gtco-copy">
 							<h3>Derecho comercial</h3>
@@ -239,51 +241,13 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 		</div>
 	</section>
 
-	<!--section id="gtco-our-team" data-section="our-team">
+	<section id="gtco-contact" data-section="contact" style="background-image: url(images/ContactUs.jpg);">
 		<div class="container">
-			<div class="row row-pb-md">
+			<div class="row">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Nuestro Equipo</h1>
-					<p class="sub"></p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Our Team</p>
-				</div>
-			</div>
-			<div class="row team-item gtco-team-reverse">
-				<div class="col-md-6 col-md-push-7 animate-box" data-animate-effect="fadeInRight">
-					<div class="img-shadow">
-						<img src="images/img_team_1.jpg" class="img-responsive" alt="B&M Abogados">
-					</div>
-				</div>
-				<div class="col-md-6  col-md-pull-6 animate-box" data-animate-effect="fadeInRight">
-					<h2>Gabriela Medina</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus aliquid maiores, voluptatum ex. Accusantium, eum distinctio laudantium. Perferendis dolor, corporis quasi? Tempore quod molestiae quis cumque pariatur dolore vel sit, fugit delectus quasi reprehenderit officia voluptate incidunt, culpa odit impedit qui dolorum fugiat. Quidem possimus reprehenderit, quae recusandae voluptatibus magnam!</p>
-					<p>Ratione facilis quod laborum eaque illo dolore blanditiis nobis dicta voluptatem fugit optio, eveniet non dolor quia delectus, sint, dignissimos atque porro consequuntur unde. Soluta ex necessitatibus delectus saepe aliquam, culpa officiis doloremque, ipsa facere hic, voluptatem accusantium veniam, quasi! Explicabo accusantium sint, corporis consequuntur fugit ipsam, dolorum excepturi adipisci.</p>
-				</div>
-			</div>
-
-			<div class="row team-item gtco-team">
-				<div class="col-md-6 col-md-pull-1 animate-box"  data-animate-effect="fadeInLeft">
-					<div class="img-shadow">
-						<img src="images/img_team_2.jpg" class="img-responsive" alt="B&M Abogados">
-					</div>
-				</div>
-				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-					<h2>Jesica Bellido</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus aliquid maiores, voluptatum ex. Accusantium, eum distinctio laudantium. Perferendis dolor, corporis quasi? Tempore quod molestiae quis cumque pariatur dolore vel sit, fugit delectus quasi reprehenderit officia voluptate incidunt, culpa odit impedit qui dolorum fugiat. Quidem possimus reprehenderit, quae recusandae voluptatibus magnam!</p>
-					<p>Ratione facilis quod laborum eaque illo dolore blanditiis nobis dicta voluptatem fugit optio, eveniet non dolor quia delectus, sint, dignissimos atque porro consequuntur unde. Soluta ex necessitatibus delectus saepe aliquam, culpa officiis doloremque, ipsa facere hic, voluptatem accusantium veniam, quasi! Explicabo accusantium sint, corporis consequuntur fugit ipsam, dolorum excepturi adipisci.</p>
-				</div>
-			</div>
-
-		</div>
-	</section-->
-
-	<section id="gtco-contact" data-section="contact">
-		<div class="container">
-			<div class="row row-pb-md">
-				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
-					<h1>Contáctenos</h1>
-					<p class="sub">Póngase en contacto con nosotros!</p>
-					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Contactenos</p>
+					<h1 style="color: #c19657;">Contáctenos</h1>
+					<p class="sub" style="color: rgba(193, 150, 87, 0.9);">Póngase en contacto con nosotros!</p>
+					<!--p class="subtle-text animate-box" data-animate-effect="fadeIn">Contactenos</p-->
 				</div>
 			</div>
 			<div class="row">
@@ -309,10 +273,10 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 				<div class="col-md-4 col-md-pull-6 animate-box">
 					<div class="gtco-contact-info">
 						<ul>
-							<li class="address">Calle numero</li>
-							<li class="phone"><a href="tel://1235235598">+ 1235 2355 98</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">info@example.com</a></li>
-							<li class="url"><a href="#">http://example.com</a></li>
+							<!--li class="address"><a href="#">Calle numero</a></li-->
+							<li class="phone"><a href="tel://+54 (011) 11 34121987">+54 (011) 11 34121987</a></li>
+							<li class="email"><a href="mailto:estjuridicogm@gmail.com">estjuridicogm@gmail.com</a></li>
+							<!--li class="url"><a href="#">http://example.com</a></li-->
 						</ul>
 					</div>
 				</div>
