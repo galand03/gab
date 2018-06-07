@@ -236,6 +236,11 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav ul li.active > a {
   color: #c19657 !important;
 }
+
+#bubble-image{
+  display: none;
+}
+
 .gtco-nav.scrolled {
   background: #61422e;
   webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.15);
