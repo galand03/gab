@@ -51,7 +51,7 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 	</head>
 	<body>
 		
@@ -114,7 +114,7 @@
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1>Bienvenido a nuestro Estudio</h1>
-					<p class="sub">En nuestro estudio buscamos brindar un servicio de excelencia profesional acorde a las expectativas de nuestros clientes, ofreciendo un asesoramiento personalizado en todas las áreas del derecho que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menos costo posible.</p>
+					<p class="sub">En nuestro estudio buscamos brindar un servicio de excelencia profesional acorde a las expectativas de nuestros clientes, ofreciendo un asesoramiento personalizado en todas las áreas del derecho que permita conocer sus reales necesidades y satisfacerlas en tiempo oportuno. Se buscan para ello soluciones prácticas, viables y al menor costo posible.</p>
 					<!--p class="subtle-text animate-box" data-animate-effect="fadeIn">Bienvenido</p-->
 				</div>
 			</div>
@@ -183,6 +183,15 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 						</div>
 					</div>
 
+					<div class="gtco-practice-area-item animate-box">
+						<div class="gtco-icon">
+							<img src="images/scale.png" alt="GM Abogados">
+						</div>
+						<div class="gtco-copy">
+							<h3>Derecho Previsional</h3>
+							<p>Jubilaciones, pensiones, reparaciones históricas. Trámites ante la anses y Ministerio de desarrollo social.</p>
+						</div>
+					</div>
 				</div>
 				<div class="col-md-6">
 					
@@ -242,7 +251,10 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 	</section>
 
 	<section id="gtco-contact" data-section="contact" style="background-image: url(images/ContactUs.jpg);">
-		<div class="container">
+		<div class="container" style="
+    background: rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    border-radius: 30px;">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">
 					<h1 style="color: #c19657;">Contáctenos</h1>
@@ -295,9 +307,9 @@ Mala Praxis médica: reclamos por lesiones o muerte derivados de la práctica m�
 					</p-->
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://twitter.com/EstJuridicoGM" target="_blank"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
+							<li><a href="mailto:estjuridicogm@gmail.com"><i class="icon-linkedin"></i></a></li>
 						</ul>
 					</p>
 				</div>
@@ -334,7 +346,7 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/59f75600bb0c3f433d4c5e98/default';
+s1.src='https://embed.tawk.to/5b1993e610b99c7b36d4baa5/default';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
